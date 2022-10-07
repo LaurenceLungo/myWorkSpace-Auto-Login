@@ -1,5 +1,9 @@
 # myWorkSpace Auto Login
 Login to myWorkSpace in one click.
+
+## Prerequisite
+Python 3
+
 ## Setup
 ```pip install -r requirements.txt```
 
@@ -10,3 +14,4 @@ Login to myWorkSpace in one click.
 ### 2. Obtain your 2FA passcode
 ### 3. Run the script from terminal
 ``` python LaunchMyWorkSpace.py <2FA passcode>```
+### 4. Enjoy!
