@@ -8,7 +8,7 @@ Python 3
 ```pip install -r requirements.txt```
 
 ## Usage
-### 1. Configure .env
+### 1. Configure your credentials & myWorkSpace URL
 - duplicate ```.env.template``` and name it ```.env```
 - fill in the variable values
 ### 2. Obtain your 2FA passcode
