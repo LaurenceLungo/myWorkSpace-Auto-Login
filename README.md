@@ -1,5 +1,5 @@
 # myWorkSpace Auto Login
-Login to myWorkSpace in one click.
+Automate your Chrome browser to login to myWorkSpace in one click.
 
 ## Prerequisite
 Python 3
